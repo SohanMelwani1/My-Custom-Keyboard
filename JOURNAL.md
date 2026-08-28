@@ -29,4 +29,53 @@ Then once again feedback, he told me to change the side of the diode(put it on t
 <img width="1392" height="807" alt="Screenshot 2026-08-26 211512" src="https://github.com/user-attachments/assets/2c4bc0c8-151f-4676-a391-4cd3c54a9d1d" />
 today I finished the layout, diode and switch placement throught today I learnt lots of new tools.
 
-Hours spent today: 4 Hours
+Hours spent today: 4 Hours 30 minutes 
+
+___
+
+day 3 (27/8/2026)
+
+Today I had started with the matrix and the routings
+Fist I had learnt how to use the route single track feature then started with the columns then i connected the row
+<img width="957" height="309" alt="image" src="https://github.com/user-attachments/assets/2e8fa437-8072-4364-b410-5e01cb408abb" />
+It looked good, But once I connected the first wire to the raspberryPi_pico, I readlized that my rows weren't apperaing and there were lots of col 0 instead in many pins 
+<img width="829" height="615" alt="Screenshot 2026-08-27 155812" src="https://github.com/user-attachments/assets/e8ff4449-ef4d-43cf-9278-6cc0c293da49" />
+So I tried trouble shooting it and finding a solution, I first went back to my schematic to save it and update it in pcb, but that didn't work, then i realized that pins which weren't being used was marked x in the guide so I implemented that.
+
+this is the picture in the guide <img width="625" height="744" alt="image" src="https://github.com/user-attachments/assets/1159da09-3b8c-4665-805f-ac97e6a9177c" />
+
+However that still didnt work, but I asked my friend for help on it, he said that there was no ground pin and that might be the reason to it. once i replaced the x with the ground pin I thought it was all solved, but still didn't change the col0
+
+<img width="334" height="430" alt="Screenshot 2026-08-27 162905" src="https://github.com/user-attachments/assets/4432d61e-19f5-44d4-accd-a75f9120e28f" />
+
+I was looking at each switch in my schematic and noticed that I was actually short cicuiting it, I was adding the rows in the slot of the switches instead of the diode and was connecting each row to col0
+<img width="1137" height="748" alt="Screenshot 2026-08-27 080918" src="https://github.com/user-attachments/assets/af47441c-b59c-4c28-97c6-ae3070dd4fe3" />
+
+then i made the changes and it finally worked!!
+
+<img width="1278" height="609" alt="Screenshot 2026-08-27 162152" src="https://github.com/user-attachments/assets/62f0a787-d819-468a-b240-db37252a2511" />
+<img width="706" height="793" alt="Screenshot 2026-08-27 163529" src="https://github.com/user-attachments/assets/3ae659b3-5e7c-4b8f-b7e6-7d3815dafd39" />
+
+then I connected/routed all of the wires to the RaspberryPi_pico,
+Once i finished I checked design rule checker but got some errors (gnd pins weren't connected)
+then I asked my friend for feedback again on the pcb, He told me to grnd both the copper plates
+I went back to the guide and learnt how to do it, but still got errors, and I realized that while making the connections I had extended the cut and the pico's cable wouldn't fit, so I had moved it up and attached the routes to it, luckily the routes were just a few cm away.
+
+<img width="1173" height="453" alt="Screenshot 2026-08-27 181951" src="https://github.com/user-attachments/assets/9beecb98-cf8d-43cc-b0cd-d486b4ca58b2" />
+
+Once i finished I started planning my mounting holes and there was verry less space, 
+<img width="1322" height="452" alt="Screenshot 2026-08-27 192502" src="https://github.com/user-attachments/assets/39b25a47-ed3f-4cf7-ae2a-b07d388b2d98" />
+
+While adding it I learnt how use the move precisley feature (shift+m)
+and used it to exactly position my mounting holes
+
+<img width="879" height="298" alt="Screenshot 2026-08-27 194008" src="https://github.com/user-attachments/assets/f52e8452-c5ad-41db-9e9a-658b29e402a7" />
+
+hours spent today in total: 6 hours
+
+___
+
+
+
+
+
