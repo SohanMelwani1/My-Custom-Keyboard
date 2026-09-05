@@ -75,7 +75,7 @@ hours spent today in total: 6 hours
 
 ___
 
-# Day 4 4/9/2026
+# Day 4 (4/9/2026)
 
 I had took like a week brake since I had my exams
 
@@ -101,3 +101,9 @@ Then I learnt how to import to fusion, At first it wasn't working I tried differ
 Hours spent today: 2 Hours 30 minutes
 
 ___
+
+# Day 5 (5/9/2026)
+
+Today I started with the 3d model
+
+First I started by making the case border, while making it I added some extra space in the bottom for the hot swaps to go there and fit, then I made the plate, While making it I added a .1mm kerf for the slots because I am going to be 3d printing it and since filament like PLA can expand a little and because 3d printing isn't perfect, I used section analysis a lot and it helped me so much it also made stuff easier anyways, I expanded the plate so that its the same size as the case and would work for my sandwich mount  
