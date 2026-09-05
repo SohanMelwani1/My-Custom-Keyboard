@@ -1,4 +1,4 @@
-Day1 (25/8/2026)
+# Day1 (25/8/2026)
 
 I first started with planning how exactly I am going to make my keyboard,
 I decided I was going to have a 60% keyboard with 61 keys
@@ -12,7 +12,7 @@ Hours spent today: 2 hours 15 minutes
 
 ___
 
-Day2 (26/8/2026)
+# Day2 (26/8/2026)
 I started my pcb layout as what I had planned earlier before. When I finished my layout I asked a friend I met on hack club for feedback, He told me that the switches weren't evenly spaced and told me that I had to replace all of the keys and that i had used a few extra stabalizers.
 <img width="1385" height="621" alt="Screenshot 2026-08-26 124632" src="https://github.com/user-attachments/assets/b108c57b-9d35-41c4-a0e1-ed26439fa688" />
 (this is how it looked like, it took me so long to manually place each of the keys)
@@ -33,7 +33,7 @@ Hours spent today: 4 Hours 30 minutes
 
 ___
 
-day 3 (27/8/2026)
+# day 3 (27/8/2026)
 
 Today I had started with the matrix and the routings
 Fist I had learnt how to use the route single track feature then started with the columns then i connected the row
@@ -75,7 +75,29 @@ hours spent today in total: 6 hours
 
 ___
 
+# Day 4 4/9/2026
 
+I had took like a week brake since I had my exams
 
+Today, I added footprints like the Cherry Mx switches and the keycaps and stabalizer to each slot
+sadly I had to manually position each switch, key cap and stabilizer in each slot since I hadn't set footprints earlier so it took quite some time to place each one manually
 
+Switches
 
+<img width="505" height="398" alt="Screenshot 2026-08-28 100625" src="https://github.com/user-attachments/assets/032be3a9-47de-4f5c-a30d-e9c684784ed5" />
+<img width="1102" height="611" alt="Screenshot 2026-08-28 121550" src="https://github.com/user-attachments/assets/4f47cac6-8fcc-404b-b048-74b4576f1bad" />
+<img width="1219" height="392" alt="Screenshot 2026-08-28 160802" src="https://github.com/user-attachments/assets/2b14ef03-5ea6-40b4-8936-e1aa10708141" />
+
+Keycaps and stabalizer
+
+<img width="1161" height="422" alt="Screenshot 2026-08-29 085342" src="https://github.com/user-attachments/assets/eb9b26f4-a53e-4eb0-a5d6-d14835b88733" />
+
+(while making the stabilizers first i had positioned them facing backwards(the wire) so then I had to rotate each, but luckly this time I only had to rotate 5)
+
+<img width="1289" height="449" alt="Screenshot 2026-08-29 103915" src="https://github.com/user-attachments/assets/39f0384d-0f9a-4b75-ae45-2e9fefb37ec7" />
+
+Then I learnt how to import to fusion, At first it wasn't working I tried different methords then I finally found why it wasn't uploading to fusion, I learnt that if it is in the KiCad file, it won't let you upload, so I draged my step file to dowanloads then it worked
+
+Hours spent today: 2 Hours 30 minutes
+
+___
