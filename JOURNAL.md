@@ -106,4 +106,14 @@ ___
 
 Today I started with the 3d model
 
-First I started by making the case border, while making it I added some extra space in the bottom for the hot swaps to go there and fit, then I made the plate, While making it I added a .1mm kerf for the slots because I am going to be 3d printing it and since filament like PLA can expand a little and because 3d printing isn't perfect, I used section analysis a lot and it helped me so much it also made stuff easier anyways, I expanded the plate so that its the same size as the case and would work for my sandwich mount  
+First I started by making the case border, while making it I added some extra space in the bottom for the hot swaps to go there and fit, then I made the plate, While making it I added a .1mm kerf for the slots because I am going to be 3d printing it and since filament like PLA can expand a little and because 3d printing isn't perfect, I used section analysis a lot and it helped me so much it also made stuff easier anyways, I made the plate so that its the same size as the case and would work for my sandwich mount next I added the hole in the front of my keyboard for the micro USB ( RaspberryPi_Pico ). Then I added the PCB mounting hole holder so that it doesn't put to much pressure on the plate. Later I added a cover for the raspberry pi on the top frame since the plate wasn't covering it. then I added a 4 degrees tilt to prevent wrist pain. I finished the case.
+
+<img width="1412" height="484" alt="Screenshot 2026-09-05 095832" src="https://github.com/user-attachments/assets/317420ea-e39e-460c-9aa7-7a730bce3b8d" />
+<img width="1421" height="538" alt="Screenshot 2026-09-05 100948" src="https://github.com/user-attachments/assets/eb6cfa5e-f058-485c-bc0b-e06756fffb8a" />
+<img width="1297" height="491" alt="Screenshot 2026-09-05 102242" src="https://github.com/user-attachments/assets/bc69a1f5-46a1-4826-9063-8af4ed778a62" />
+<img width="904" height="506" alt="Screenshot 2026-09-05 102856" src="https://github.com/user-attachments/assets/94fbafca-c343-4948-9e7c-4f078106b97e" />
+<img width="1479" height="573" alt="Screenshot 2026-09-05 103118" src="https://github.com/user-attachments/assets/ad944a4e-4c02-4020-9f3a-e8ce2044afee" />
+<img width="1215" height="594" alt="Screenshot 2026-09-05 160108" src="https://github.com/user-attachments/assets/56d5cbba-94ed-4dd5-9989-e79fcdad1a11" />
+
+Hours spent today: 6 Hours 10 minutes
+
