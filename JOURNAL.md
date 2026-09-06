@@ -117,3 +117,20 @@ First I started by making the case border, while making it I added some extra sp
 
 Hours spent today: 6 Hours 10 minutes
 
+___
+
+# Day 6 (6/9/2026)
+
+Today I was just finishing up what was left. I Made the firmware, I didn't even know what it was until today and surprisingly it wasn't that difficult. Then I downloaded the files, tried to find a way to make my BOM cheaper so that Keeb doesn't over spend money on mine and created it. I also added downloads, CAD files, PCB files then fixed some errors in the firmware.
+
+<img width="1427" height="418" alt="Screenshot 2026-09-06 154159" src="https://github.com/user-attachments/assets/b5fb2a66-9aa4-4c5e-b4b4-75b0125f007d" />
+<img width="1915" height="900" alt="Screenshot 2026-09-06 155015" src="https://github.com/user-attachments/assets/0afee685-fa34-424a-a7f8-714b15e4423f" />
+<img width="1917" height="881" alt="Screenshot 2026-09-06 155717" src="https://github.com/user-attachments/assets/7195b585-dbaf-43c3-b5d2-5be74e5db4fb" />
+<img width="1748" height="915" alt="Screenshot 2026-09-05 185442" src="https://github.com/user-attachments/assets/4d577e75-17dd-4925-b972-05710231e8df" />
+<img width="619" height="371" alt="Screenshot 2026-09-06 174924" src="https://github.com/user-attachments/assets/7a1104b1-ecb2-42a6-8ae4-04dfc59df6b3" />
+
+Hours spent today: 3 hours 35 minutes
+
+___
+
+# Total Hours Spent: 24 hours and 50 minutes
