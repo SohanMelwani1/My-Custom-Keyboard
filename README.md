@@ -1,6 +1,8 @@
 # My-Custom-Keyboard
 My own Custom 60% Mechanical Keyboard
 
+[Click here to open and view firmware repository](https://github.com/SohanMelwani1/RMK-My-custom-Keyboard)
+
 # Features
 - 3 Macros
 - Anti-Ghosting
