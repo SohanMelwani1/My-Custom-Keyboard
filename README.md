@@ -3,6 +3,8 @@ My own Custom 60% Mechanical Keyboard
 
 [Click here to open and view firmware repository](https://github.com/SohanMelwani1/RMK-My-custom-Keyboard)
 
+BOM link: https://docs.google.com/spreadsheets/d/1pmS31pF6GHp4k1bNOez-trRHEgPxX3IoW4xAfGn9qzQ/edit?gid=0#gid=0
+
 # Features
 - 3 Macros
 - Anti-Ghosting
@@ -13,6 +15,10 @@ My own Custom 60% Mechanical Keyboard
 - 3d printed case
 - Matrix layout
 - 61 keys
+
+___
+
+While making this I learnt How Matrix keyboards work, types of mounting of keyboards, Schematic and how to use it, PCB wiring, importing pcb to fusion and creating case, Firmware and about keyboards in general, this was my first PCB I have ever designed
 
 ___
 
