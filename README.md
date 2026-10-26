@@ -18,7 +18,7 @@ BOM link: https://docs.google.com/spreadsheets/d/1pmS31pF6GHp4k1bNOez-trRHEgPxX3
 
 ___
 
-While making this I learnt How Matrix keyboards work, types of mounting of keyboards, Schematic and how to use it, PCB wiring, importing pcb to fusion and creating case, Firmware and about keyboards in general, this was my first PCB I have ever designed
+While making this I learnt How Matrix keyboards work, types of mounting of keyboards, Schematic and how to use it, PCB wiring, importing pcb to fusion and creating case, Firmware and about keyboards in general, this was my first PCB I have ever designed. I added 4 holes in each corner of the case to secure the pieces into place.
 
 ___
 
