@@ -1,8 +1,6 @@
 # My-Custom-Keyboard
 My own Custom 60% Mechanical Keyboard
 
-[Click here to open and view firmware repository](https://github.com/SohanMelwani1/RMK-My-custom-Keyboard)
-
 BOM link: https://docs.google.com/spreadsheets/d/1pmS31pF6GHp4k1bNOez-trRHEgPxX3IoW4xAfGn9qzQ/edit?gid=0#gid=0
 
 # Features
